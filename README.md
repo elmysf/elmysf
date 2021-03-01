@@ -11,7 +11,7 @@ I am Currently learning  Developer, I love programming, writing and traveling
 
 Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
 
-<img align="right" alt="GIF" src="https://github.com/elmysf/elmysf/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/elmysf/elmysf/coding.gif?raw=true" width="408" height="318" />
   
 
 📊 **This Week I Spent My Time On:**
