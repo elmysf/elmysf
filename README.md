@@ -10,18 +10,11 @@
 I am Currently learning  Developer, I love programming, writing and traveling, Feel free to connect with me and learn together.
 
 Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
-
-<img align="right" alt="GIF" src="https://github.com/elmysf/elmysf/coding.gif?raw=true" width="408" height="318" />
   
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java         8 hrs 59 mins   ████████████████████░░░░░   79.54 % 
-XML          1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Groovy       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
