@@ -7,18 +7,10 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=elmysf.elmysf)
 
-I am Currently learning  Developer, I love programming, writing and traveling, Feel free to connect with me and learn together.
+I am Currently learning  Engineer, I love programming, writing and traveling, Feel free to connect with me and learn together.
 
 Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
   
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-```
-<!--END_SECTION:waka-->
-
-
 📈 **My GitHub Stats:**
 
 <p>
